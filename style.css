@@ -1,0 +1,17 @@
+.calculator-container{
+    height: 450px;
+    width: 300px;
+
+    background-color: rgb(75, 75, 75);
+}      
+.calcInput{
+  height: 70px;
+width: 292px;
+background-color: dimgray;
+}
+.calcBtn{
+  height: 70px;
+  width: 70px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 24px;
+}
